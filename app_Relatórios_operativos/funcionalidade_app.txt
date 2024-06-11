@@ -1,0 +1,32 @@
+Aplicativo tem como objetivo consturir relatórios de apuração de lucratividade e romaneio executados. Utilizando de arquivos em formato xlsx(Excel),
+como base para realizar a construção dos relatórios por filial. 
+relatórios de apuração de lucratividade utiliza os seguinte documentos: Coletas solicitadas e Apuração de lucratividade.
+relatórios de remaneio executados utiliza os seguintes documenos: Romaneio Executados e Romaneio Emitidos.
+
+Passo a passo da construção dos relatórios pelo app:
+
+1--> Desbloquear o Aplicativo: Inserir a senha no campo quando a janela de senha for aberta.
+
+2--> Ir até a tela secundaria: Clicar no botão inciar presente na tela principal e você será levado a segunda tela.
+
+3--> Botão "Procurar Arquivos": Este botão é responsavel pela coleta dos arquivos necessários. Uma janela será aberta e deve ser selecionado os arquivos, 
+dependendo do tipo de relatório que deseja.
+
+4--> Pós selecionar arquivos: Depois de concluir a seleção de arquivos, será exibido na tela o nome dos arquivos selecionados.
+
+5--> Selecionar o tipo de relatório: Pós seleção de arquivos, clicar no botão que contém o tipo do relatórios desejado. Exemplo: Apuração de lucratividade.
+
+6--> Salvar Arquivo: Será Aberta uma janela solicitando que escolha o nome e onde deseja salvar o relátorio finalizado.
+
+7--> para a utilização do botão "romaneio sem valor", ele tem a função de trabalhar em conjunto com o "romaneio executado". Pós a finalização, ao utilizar os "romaneios sem valor" sera solicitado o local de salvamento do documento. 
+este documento tem como dados os romaneios e a filial emitida da qual n coincide na relação da criação dos romaneios executados.
+8 --> aplicativo é voltado para realizar 2 tipos de relatórios especificos da minh empresa. 
+
+
+
+
+
+aplicativo desenvolvido por: Rodrigo Brito.
+
+
+
